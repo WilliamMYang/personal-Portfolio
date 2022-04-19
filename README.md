@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-New portfolio design is in the works. Here is the rough design layout I created.
+*New portfolio design is in the works
 
 Link to Webpage: https://williammyang.github.io/personal-Portfolio/
 <br>(Right-Click to open on new tab)
